@@ -1,0 +1,28 @@
+draw all response data
+1) ...
+
+
+For search function
+1) add the #id to FORM tag instead of INPUT tag  --> to create submit event
+2) event.prevent() to prevent refresh
+3) use .trim() & .toLowerCase()
+4) includes
+
+
+
+For Add to Favourite
+1) JSON.parse()/JSON.stringify() +local storage
+2) Find(): friends.find((friend) => friend.id === id)
+3) Some(): list.some((friend) => friend.id === id)) 
+
+Remove
+1)array.findIndex
+2)splice
+
+Paginaton
+1) each page hv 12 movies :friends.slice(startIndex, startIndex + FRIEND_BY_PAGE)
+2) event.target.tagName
+3) dataset
+
+修改資料來源
+const data = filteredFriends.length ? filteredFriends : friends

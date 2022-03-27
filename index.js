@@ -111,5 +111,5 @@ axios(Index_URL).then((response) => {
   const friend = response.data.results
   friends.push(...friend)
   renderPaginator(friends.length)
-  renderFriendList(getFriendByPage(3))
+  renderFriendList(getFriendByPage(1))
 })

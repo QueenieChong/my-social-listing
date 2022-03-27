@@ -1,9 +1,11 @@
-#My Friend List
-###Meet new people here!Be friends with them! See who will become your best friend
+# My Friend List
 
-#Functions
-*Add to your best friend list
-*Get to know them by clicking their profile pics
-* Search someone who wanna know
+ Meet new people here!Be friends with them! See who will become your best friend
 
-###_ Have Fun!
+# Functions
+
+* Add people to your best friend list
+* Get to know them by clicking their profile pics
+* Search someone who you want to know
+
+*Have Fun!*

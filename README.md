@@ -8,4 +8,4 @@
 * Get to know them by clicking their profile pics
 * Search someone who you want to know
 
-*Have Fun!*
+*Have Fun!!*

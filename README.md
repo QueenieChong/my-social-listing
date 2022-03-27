@@ -6,6 +6,6 @@
 
 * Add people to your best friend list
 * Get to know them by clicking their profile pics
-* Search someone who you want to know
+* Search someone who wanna know
 
-*Have Fun!!*
+*Have Fun!*
